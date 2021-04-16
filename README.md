@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gophin
-- 👀 I’m interested in: dll
+- 👀 I’m interested in: dll and https
 - 🌱 I’m currently learning: dll
-- 💞️ I’m looking to collaborate on: dll
-- 📫 How to reach me: teach me how to get dll textbox
+- 💞️ I’m looking to collaborate on: im not looking to collaborate
+- 📫 How to reach me: idk
 
 <!---
 Gophin/Gophin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
